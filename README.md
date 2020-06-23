@@ -1,6 +1,6 @@
 
 ### If the Webpage isnt displayed then 
-View my Project at [https://github.com/Ravikirandhss/react-card].Please Consider my Submission
+View my Project at [https://github.com/Ravikirandhss/react-card] .Please Consider my Submission
 
 ## Available Scripts
 
